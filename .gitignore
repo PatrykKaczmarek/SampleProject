@@ -45,9 +45,6 @@ DerivedData
 xcodebuild.log
 xcodebuild_error.log
 
-# CocoaPods files
-Pods
-
 # Carthage files
 Carthage
 
