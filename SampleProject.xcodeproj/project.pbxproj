@@ -225,6 +225,7 @@
 		5EFE6BFC1B32FACA003EADC0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = netguru;
 				TargetAttributes = {
