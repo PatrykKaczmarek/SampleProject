@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (1.2.3)
+  - Nimble (2.0.0-rc.1)
+  - Quick (0.4.0)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire.git`, branch `swift-2.0`)
+  - Nimble (from `https://github.com/Quick/Nimble.git`, branch `swift-2.0`)
+  - Quick (from `https://github.com/Quick/Quick.git`, branch `swift-2.0`)
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :branch: swift-2.0
+    :git: https://github.com/Alamofire/Alamofire.git
+  Nimble:
+    :branch: swift-2.0
+    :git: https://github.com/Quick/Nimble.git
+  Quick:
+    :branch: swift-2.0
+    :git: https://github.com/Quick/Quick.git
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :commit: fd71afb3a0af2042b9f05a6b9f29317ad4903703
+    :git: https://github.com/Alamofire/Alamofire.git
+  Nimble:
+    :commit: fa73feeb156d8af7f47ae94dde07f1f7847bb1a3
+    :git: https://github.com/Quick/Nimble.git
+  Quick:
+    :commit: 003d74b0b00dc5b3bf5d166a0b2a64a6d70e8a59
+    :git: https://github.com/Quick/Quick.git
+
+SPEC CHECKSUMS:
+  Alamofire: 5550bf0b575ed1a4bf9be572f9463e1015cc169e
+  Nimble: 9572458605e65c9fc5a56754ab19a970f6ab5a88
+  Quick: 2286bfff349102670c6d2dafd0d2cefab42f5f0b
+
+COCOAPODS: 0.37.2
