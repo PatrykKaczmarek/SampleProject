@@ -17,10 +17,6 @@ class MathSpec: QuickSpec {
             it("is awesome") {
                 expect(2+2).to(equal(4));
             }
-            
-            it("works great") {
-                expect(2+2).to(equal(5));
-            }
         }
     }
 }

@@ -32,4 +32,10 @@ class SampleProjectUITests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
     
+    func testAlertViewHook() {
+        let app = XCUIApplication()
+        app.buttons["Press me!"].tap()
+        app.alerts["Demo title!"].collectionViews.buttons["OK"].tap()
+    }
+    
 }
